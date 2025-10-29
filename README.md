@@ -8,4 +8,6 @@ by the user if they so desire. This program also utilizes an extension of the Th
 class, so files may be uploaded, read, and interpretted accordingly by the program.
 A project like this serves as the backbone for the inner-workings of many 
 social media apps that we use today. A front-end portion or GUI may be easily
-added and adapted to make a more complete application.
+added and adapted to make a more complete application. For a more extensive
+summary of the technical portions of this project, see the in-file 
+documentation.
